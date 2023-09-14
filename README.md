@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 🦄✨, I'm Meghana</h1>
 <h3 align="center">A passionate programmer from India</h3>
+
 <img align= 'right' alt="coading" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theboycut05&label=Profile%20views&color=0e75b6&style=flat" alt="theboycut05" /> </p>
