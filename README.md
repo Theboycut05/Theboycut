@@ -1,4 +1,4 @@
-[ ! [Master head]("https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif")] 
+[![Master head]("https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif")] 
 
 <h1 align="center">Hi 🦄✨, I'm Meghana</h1>
 <h3 align="center">A passionate programmer from India</h3>
@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theboycut05" alt="theboycut05" /></a> </p>
 
-- 🔭 I’m currently working on **Not yet**
 
 - 🌱 I’m currently learning **Python, java**
 
